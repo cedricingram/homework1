@@ -21,7 +21,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/optiMize/fix_email_list.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -55,10 +55,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="257" key="FileChooserDialogImpl" timestamp="1579069295231">
+    <state x="634" y="257" key="FileChooserDialogImpl" timestamp="1579130518533">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
-    <state x="634" y="257" key="FileChooserDialogImpl/0.40.1707.920@0.40.1707.920" timestamp="1579069295231" />
+    <state x="634" y="257" key="FileChooserDialogImpl/0.40.1707.920@0.40.1707.920" timestamp="1579130518533" />
+    <state x="551" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1579187487798">
+      <screen x="0" y="40" width="1707" height="920" />
+    </state>
+    <state x="551" y="326" key="com.intellij.ide.util.TipDialog/0.40.1707.920@0.40.1707.920" timestamp="1579187487798" />
     <state x="664" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579073355919">
       <screen x="0" y="40" width="1707" height="920" />
     </state>
